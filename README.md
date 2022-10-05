@@ -1,1 +1,1 @@
-# parte2_ariely_barbearia
+# projeto-barbearia
